@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/qcbench-org/qcbench/main/assets/avatar.png" alt="QCBench logo" width="160" height="160">
+</p>
+
 # QCBench
 
 [![PyPI](https://img.shields.io/pypi/v/qcbench)](https://pypi.org/project/qcbench/)
